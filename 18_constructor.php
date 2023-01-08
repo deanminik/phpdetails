@@ -10,7 +10,7 @@ class person
     //constructor
     function __construct($newName)
     {
-        $this->name = $newName;
+        $this->name = $newName; // this: referece to the same class
     }
 
     public function addName($newName)
