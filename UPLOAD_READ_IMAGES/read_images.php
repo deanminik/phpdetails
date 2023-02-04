@@ -13,7 +13,7 @@
     $conn = null;
     ?>
     <div>
-        <img src="/UPLOAD_IMAGES/images/<?php echo $route; ?>" alt="">
+        <img src="/phpdetails/UPLOAD_READ_IMAGES/images/<?php echo $route; ?>" alt="">
     </div>
 </body>
 
