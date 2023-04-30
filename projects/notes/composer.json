@@ -1,0 +1,15 @@
+{
+    "name": "deandev/notes",
+    "autoload": {
+        "psr-4": {
+            "Deandev\\Notes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dean",
+            "email": "deaneryfb@gmail.com"
+        }
+    ],
+    "require": {}
+}
