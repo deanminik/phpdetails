@@ -1,1 +1,7 @@
 API/imagenes/
+projects/auth_api/src
+projects/auth_api/vendor
+projects/auth_api/composer.json
+projects/auth_api/composer.lock
+
+
