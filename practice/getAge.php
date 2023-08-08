@@ -32,4 +32,4 @@ function getAge($response)
     }
 }
 
-getAge('3 years old');
+getAge('8 years old');
